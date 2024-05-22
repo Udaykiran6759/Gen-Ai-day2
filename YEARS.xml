@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<years>
+    <year>
+        <id>1</id>
+        <name>First Year</name>
+    </year>
+    <year>
+        <id>2</id>
+        <name>Second Year</name>
+    </year>
+    <year>
+        <id>3</id>
+        <name>Third Year</name>
+    </year>
+    <year>
+        <id>4</id>
+        <name>Fourth Year</name>
+    </year>
+</years>

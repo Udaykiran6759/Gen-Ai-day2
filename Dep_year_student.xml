@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<departments>
+    <department>
+        <id>1</id>
+        <name>Computer Science</name>
+        <years>
+            <year>
+                <id>1</id>
+                <name>First Year</name>
+                <students>
+                    <student>
+                        <id>1</id>
+                        <name>John Doe</name>
+                    </student>
+                </students>
+            </year>
+            <year>
+                <id>2</id>
+                <name>Second Year</name>
+                <students>
+                    <student>
+                        <id>4</id>
+                        <name>Anna Green</name>
+                    </student>
+                </students>
+            </year>
+        </years>
+    </department>
+    <department>
+        <id>2</id>
+        <name>Mathematics</name>
+        <years>
+            <year>
+                <id>1</id>
+                <name>First Year</name>
+                <students>
+                    <student>
+                        <id>2</id>
+                        <name>Jane Smith</name>
+                    </student>
+                </students>
+            </year>
+            <year>
+                <id>3</id>
+                <name>Third Year</name>
+                <students>
+                    <student>
+                        <id>5</id>
+                        <name>Mark Brown</name>
+                    </student>
+                </students>
+            </year>
+        </years>
+    </department>
+    <department>
+        <id>3</id>
+        <name>Physics</name>
+        <years>
+            <year>
+                <id>1</id>
+                <name>First Year</name>
+                <students>
+                    <student>
+                        <id>3</id>
+                        <name>Emily Johnson</name>
+                    </student>
+                </students>
+            </year>
+            <year>
+                <id>4</id>
+                <name>Fourth Year</name>
+                <students>
+                    <student>
+                        <id>6</id>
+                        <name>Paul Walker</name>
+                    </student>
+                </students>
+            </year>
+        </years>
+    </department>
+</departments>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <id>1</id>
+        <name>John Doe</name>
+        <department>Computer Science</department>
+        <year>First Year</year>
+    </student>
+    <student>
+        <id>2</id>
+        <name>Jane Smith</name>
+        <department>Mathematics</department>
+        <year>Second Year</year>
+    </student>
+    <student>
+        <id>3</id>
+        <name>Emily Johnson</name>
+        <department>Physics</department>
+        <year>Third Year</year>
+    </student>
+</students>

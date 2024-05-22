@@ -1,0 +1,22 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "department": "Computer Science",
+            "year": "First Year"
+        },
+        {
+            "id": 2,
+            "name": "Jane Smith",
+            "department": "Mathematics",
+            "year": "Second Year"
+        },
+        {
+            "id": 3,
+            "name": "Emily Johnson",
+            "department": "Physics",
+            "year": "Third Year"
+        }
+    ]
+}
